@@ -14,7 +14,7 @@
     "moment": "^2.22.1"
   },
   "devDependencies": {
-    "egg-bin": "^4.7.0",
+    "egg-bin": "^4.20.0",
     "egg-view-ejs": "^2.0.0"
   }
 }
